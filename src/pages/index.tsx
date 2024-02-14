@@ -19,7 +19,7 @@ export default function Home() {
         <h1
           className={`text-4xl font-bold text-center ${alata.className} py-6`}
         >
-          Happy Valentine's Day to my{" "}
+          Happy Valentine&apos;s Day to my{" "}
           <HeroTypewriter
             content={[
               "pookie bear!!",
