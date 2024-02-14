@@ -22,11 +22,11 @@ const initialData = [
     name: "we kissed awkwardly in front of that couple 😳😳😳",
     img: "/mfa.jpg",
   },
-  { name: "she goin' x games mode 😤😤😤", img: "/biker.JPG" },
+  { name: "she goin' x games mode 😤😤😤", img: "/biker.jpg" },
   { name: "when we kinda broke up 😢😢😢", img: "/breakup.JPG" },
   {
     name: "our first date 😍😍😍 (u couldn't look at the stars 😢)",
-    img: "/first-date.JPG",
+    img: "/first-date.jpg",
   },
   {
     name: "our jason from friday the 13th recreation 😱😱😱",
@@ -42,7 +42,7 @@ const initialData = [
   },
   {
     name: "da minion after da neighborhood 😂😂😂",
-    img: "/minion.JPG",
+    img: "/minion.jpg",
   },
   {
     name: "red light district 😳😳😳",
@@ -58,7 +58,7 @@ const initialData = [
   },
   {
     name: "h-man 😎😤😤",
-    img: "/hman.jpg",
+    img: "/hman.JPG",
   },
 ];
 
