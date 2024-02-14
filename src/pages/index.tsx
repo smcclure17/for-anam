@@ -40,7 +40,7 @@ export default function Home() {
         </h1>
         <h2 className={`text-2xl font-bold ${playfair.className} text-center`}>
           Here are{" "}
-          <span className="text-red-500 font-bold text-4xl rotate-12">17</span>{" "}
+          <span className="text-red-500 font-bold text-4xl rotate-12">19</span>{" "}
           of my favorite moments with you :)
         </h2>
         <h3>
